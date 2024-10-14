@@ -1,0 +1,2 @@
+The Strip() method in Python removes or truncates the given characters from the beginning and the end of the original string. The default behavior of the strip() method is to remove the whitespace from the beginning and at the end of the string
+ Shift number: 5
